@@ -1,5 +1,8 @@
+
 language: python
-python：
-- "2.7"
+python:
+- '2.7'
 script:
 - python hello.py
+
+
